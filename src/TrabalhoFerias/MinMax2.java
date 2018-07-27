@@ -8,7 +8,7 @@ public class MinMax2 {
 		int menor = vetor[0];
 		int contador = 0;
 		
-		for(int i = 0; (vetor.length) < i ; i+=2 ){
+		for(int i = 0; (vetor.length) < i ; i++ ){
 			contador++;
 			if (vetor[i] > maior){
 				contador++;
