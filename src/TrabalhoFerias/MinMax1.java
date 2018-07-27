@@ -1,8 +1,6 @@
 package TrabalhoFerias;
 public class MinMax1 {
 	
-	
-	
 	public int recebeVetor(int vetor[]) {
 		int maior = vetor[0];
 		int menor = vetor[0];

@@ -17,7 +17,6 @@ public class Popula {
 		int gol = 99;
 		for (int i = 0; i < valor.length; i++){
 			valor[i] = gol - i;
-			
 		}
 		return valor;
 	}

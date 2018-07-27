@@ -1,7 +1,6 @@
 package TrabalhoFerias;
 public class MinMax3 {
 	
-	
 	public int recebeVetor(int vetor[]) {
 		int a, i, b;
 		int maior = Integer.MAX_VALUE;
@@ -14,13 +13,11 @@ public class MinMax3 {
 			tamVetor--;
 		}
 		for( i = 0; i < tamVetor; i+=2 ){
-			
 			contador++;
 			if (i == vetor.length){
 				contador++;
 				i = i - 1;
 			}
-			
 			if (vetor[i] < vetor[i+1]) {
 				contador++;
 				a = i; b = i + 1;
@@ -28,17 +25,14 @@ public class MinMax3 {
 				contador++;
 				a = i + 1; b = i;
 			}
-			
 			if (vetor[a] < menor){
 				contador++;
 				menor = vetor[a];
 			}
-			
 			if (vetor[b] > maior){
 				contador++;
 				maior = vetor[b];
 			}
-
 		}
 		return contador;
 	}
