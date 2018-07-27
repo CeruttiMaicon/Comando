@@ -37,7 +37,7 @@ public class Utilizador {
 									
 //					Escreve no arquivo CSV
 					writer.append(minmax1.recebeVetor(crescenteVar) 	+ ",");
-					writer.append(minmax2.recebeVetor(aleatorioVar) 	+ ",");
+					writer.append(minmax2.recebeVetor(crescenteVar) 	+ ",");
 					writer.append(minmax2.recebeVetor(decrescenteVar) 	+ ",");
 					writer.append(minmax2.recebeVetor(aleatorioVar) 	+ ",");
 					writer.append(minmax3.recebeVetor(crescenteVar) 	+ ",");
