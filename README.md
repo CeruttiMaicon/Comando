@@ -10,7 +10,7 @@ Pegando os três algoritmos e os fazendo interagir com um vetor Crescente, Decre
 
 ## Sobre o trabalho
 
-Os dados utilizados para gerar o gráfico são do retorno do algoritmo criado neste projeto.
+Os dados utilizados para gerar o gráfico são do retorno do algoritmo criado neste projeto. O arquivo CSV utilizado para a criação do gráfico se encontra dentro da pasta "src" com o nome de "array.csv".
 
 ## Execução
 No código da Classe Utilizador na linha 14, existe uma tag que deve ser mudada para gerar o arquivo CSV, ali eu especifiquei uma pasta do meu ambiente de trabalho no Ubuntu, mas deve-se trocar o local de criação do arquivo.
