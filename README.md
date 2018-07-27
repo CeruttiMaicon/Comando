@@ -14,7 +14,7 @@ Os dados utilizados para gerar o gráfico são do retorno do algoritmo criado ne
 
 ## Execução
 No código da Classe Utilizador na linha 14, existe uma tag que deve ser mudada para gerar o arquivo CSV, ali eu especifiquei uma pasta do meu ambiente de trabalho no Ubuntu, mas deve-se trocar o local de criação do arquivo.
-Após a execução do algoritmo e receber a mensagem de "Arquivo CSV criado com Sucesso!" o seu arquivo CSV foi criado. Com base nele criei os gráfico no LibreOffice Calc com a seguinte configuração, segue print.
+Após a execução do algoritmo e receber a mensagem de "Arquivo CSV criado com Sucesso!" o seu arquivo CSV é criado. Com base nele criei os gráfico no LibreOffice Calc com a seguinte configuração, segue print.
 ![enter image description here](https://s3-sa-east-1.amazonaws.com/gps-bucket/customer-1-user-1-time-1532706085.png)
 
 
