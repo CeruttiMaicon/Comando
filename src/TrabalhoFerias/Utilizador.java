@@ -10,6 +10,7 @@ public class Utilizador {
 		// Fila com os valores Crescentes
 		try{
 			Popula p = new Popula();
+//			Aqui definimos o local de criacao do arquivo CSV, no meu Ubuntu coloquei esta rota
 			FileWriter writer = new FileWriter("/home/dev3/Documentos/array.csv");
 			
 //			Faz o cabeçalho do arquivo CSV
