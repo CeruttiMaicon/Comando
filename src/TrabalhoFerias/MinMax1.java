@@ -6,11 +6,9 @@ public class MinMax1 {
 	public int recebeVetor(int vetor[]) {
 		int maior = vetor[0];
 		int menor = vetor[0];
+		int contador = 0;
 		
-		int contador = 2;
-		
-		
-		for( int i = 0; vetor.length < i; i++ ) {
+		for( int i = 0; i < (vetor.length); i++ ) {
 			contador += 1;
 			if (vetor[i] > maior){
 				contador +=1;
