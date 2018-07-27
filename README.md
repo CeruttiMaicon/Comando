@@ -6,8 +6,8 @@ Este algoritmo apenas servirá como trabalho de Estrutura de Dados. Ele mede o n
 
 ## Apresentação do desempenho dos algoritmos
 
-Pegando os três algoritmos e os fazendo interagir com um vetor Crescente, Decrescente e Desordenado temos os resultados de melhor caso, pior caso e caso médio como poderemos ver no gráfico abaixo.![enter image description here](https://s3-sa-east-1.amazonaws.com/gps-bucket/customer-1-user-1-time-1532705374.png)
-
+Pegando os três algoritmos e os fazendo interagir com um vetor Crescente, Decrescente e Desordenado temos os resultados de melhor caso, pior caso e caso médio como poderemos ver no gráfico abaixo.!
+![enter image description here](https://s3-sa-east-1.amazonaws.com/gps-bucket/customer-1-user-1-time-1532730543.png)
 ## Sobre o trabalho
 
 Os dados utilizados para gerar o gráfico são do retorno do algoritmo criado neste projeto. O arquivo CSV utilizado para a criação do gráfico se encontra dentro da pasta "src" com o nome de "array.csv".

@@ -18,6 +18,7 @@ public class MinMax3 {
 				contador++;
 				i = i - 1;
 			}
+			contador++;
 			if (vetor[i] < vetor[i+1]) {
 				contador++;
 				a = i; b = i + 1;
@@ -25,10 +26,12 @@ public class MinMax3 {
 				contador++;
 				a = i + 1; b = i;
 			}
+			contador++;
 			if (vetor[a] < menor){
 				contador++;
 				menor = vetor[a];
 			}
+			contador++;
 			if (vetor[b] > maior){
 				contador++;
 				maior = vetor[b];
